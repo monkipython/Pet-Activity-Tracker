@@ -4,7 +4,7 @@
 * This projects is fully distributed which includes Rabbitmq, Socket.io, Mysql Master/Slave databases, Master/Slave Proccess Worker, Rsync Listener(Auto update data when directories/files were different from previous state)...etc. 
 * Much more...
 
-# Need following third-party API for push notification, messaging, usage monitor...etc
+# The following third-party API are included.
 
 * [Google Play, Firebase](https://play.google.com/apps/publish/?hl=zh CN&dev_acc=04134213687250387624#AppDashboardPlace:p=com.poofer.poof)
 
@@ -13,10 +13,6 @@
 * [Intercom](https://www.intercom.com/)
 
 * [Facebook](https://www.facebook.com/)
-
-username： madcowmakai@hotmail.com
-
-password： Klf4mily!
 
 * [Twitter](https://twitter.com/)
 
