@@ -8,15 +8,9 @@
 
 * [Google Play, Firebase](https://play.google.com/apps/publish/?hl=zh CN&dev_acc=04134213687250387624#AppDashboardPlace:p=com.poofer.poof)
 
-#####################################
-
 * [OneSignal](https://onesignal.com/)
 
-#####################################
-
 * [Intercom](https://www.intercom.com/)
-
-#####################################
 
 * [Facebook](https://www.facebook.com/)
 
@@ -24,25 +18,15 @@ username： madcowmakai@hotmail.com
 
 password： Klf4mily!
 
-#####################################
-
 * [Twitter](https://twitter.com/)
-	
-#####################################
 
 * [Sinch](https://www.sinch.com/)
 
-#####################################
-
 * [ShareSDK](http://www.mob.com)
 
-#####################################
 * [Flurry]
 
-#####################################
-
 * [appsfly]
-
 
 # NOTE: The source files are too big. Please use Google drive to download the source code. Thanks
 
