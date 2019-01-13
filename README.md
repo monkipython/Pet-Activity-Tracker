@@ -4,3 +4,4 @@
 2.This projects is fully distributed which includes Rabbitmq, Socket.io, Mysql Master/Slave databases, Master/Slave Proccess Worker, Rsync Listener(Auto update data when directories/files were different from previous state)...etc. 
 
 
+#NOTE: The source files are too big. Please download the link I provide with Google drive. Thanks
