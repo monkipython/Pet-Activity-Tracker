@@ -42,4 +42,6 @@ IOS:
 
 uploading the file...
 
+# NOTE: All the source code are for demonstration only. Please use it at your own risk. Thanks
+
 
